@@ -31,6 +31,7 @@ To install and set up the project locally, follow these steps:
 
 4. Database Setup:
 - Create a new database in phpMyAdmin or any MySQL client of your choice.
+- Use the SQL file in ```Dummy Database`` folder as a reference
 
 5. Configuration:
 - Open the project files and locate the configuration file, usually named `config.php` or similar.
